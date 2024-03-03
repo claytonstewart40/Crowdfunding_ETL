@@ -1,5 +1,5 @@
 # Crowdfunding_ETL
-Project 2. David G, Clayton S.
+Project 2. David Gooch, Clayton Stewart.
 
 
 For the ETL mini project, the focus is on building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions for data extraction and transformation. The project culminates in the creation of four CSV files, an ERD, and a table schema, followed by uploading the CSV data into a Postgres database. This project is scheduled to be completed within one week, with a significant portion expected to be done before the third class day to maintain progress.
