@@ -1,4 +1,4 @@
-# Crowdfunding_ETL (Project 2)
+# Crowdfunding_ETL Project
 Project 2. David Gooch, Clayton Stewart.
 
 
